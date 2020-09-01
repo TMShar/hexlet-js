@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TMShar/hexlet-js/issues"
   },
-  "homepage": "https://github.com/TMShar/hexlet-js#readme"
+  "homepage": "https://github.com/TMShar/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
